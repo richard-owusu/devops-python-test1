@@ -1,4 +1,7 @@
 Pipeline{
+
+	agent any
+	
 	Stages{
 		stage('checkout codes'){
 		}
