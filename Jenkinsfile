@@ -2,8 +2,9 @@ pipeline{
 
 	agent any
 	
-	Stages{
+	stages{
 		stage('checkout codes'){
+
 		}
 		
 		stage('Build project'){
